@@ -4,5 +4,4 @@ public class example3
     {
         System.out.println("example3 in copy3 in master");
     }
-    
 }
